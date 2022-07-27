@@ -25,12 +25,12 @@ This assignment is about creating a simple calendar application that allows a us
 * Finally, created a repository for the challenge and pushed all necessary files for this challenge!
 
 ## Screenshot of the application and Link to deployed application
-* [Link to the deployed application]()
+* [Link to the deployed application](https://hhealing123.github.io/Third-Party-APIs-Challenge-Work-Day-Scheduler-/)
 * Screenshot of the application
-<img src = "./assets/images/screenshot.JPG>
+<img src = "./assets/images/screenshot.JPG">
 
 ## Video Demo of Calendar Application!
-* [Video Demo Link] (https://user-images.githubusercontent.com/106945679/181139665-c181c291-e9da-4939-a43e-1f4482743781.mp4)
+* [Video Demo Link](https://user-images.githubusercontent.com/106945679/181139665-c181c291-e9da-4939-a43e-1f4482743781.mp4)
 
 ## Challenging Moments and Final Thoughts!
 * This week's assignment was fairly easy. I understood exactly what I was doing such as importing jQuery and Moment.js to make those function in the HTML page. However, I did have a hard time when I was styling HTML/CSS files; simply due to the fact that I was not aware that I had to use bootstrap when assigning classes for some of the divs in HTML; hence, I had to do little research on how to properly apply bootstrap into HTML.
